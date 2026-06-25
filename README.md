@@ -29,8 +29,8 @@ This app provides:
 
 ## Tech Stack
 Frontend: Flutter (Dart)
-Backend: (To be decided)
-Database: (To be decided)
+Backend: Firebase
+Database: Firebase (Firestore)
 
 ## Target Users
 Beginners exploring new career paths
